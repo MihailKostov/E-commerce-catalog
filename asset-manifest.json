@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f2935ec1.chunk.css",
+    "main.js": "./static/js/main.ad5cc843.chunk.js",
+    "main.js.map": "./static/js/main.ad5cc843.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7c97c281.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7c97c281.js.map",
+    "static/js/2.89c6f613.chunk.js": "./static/js/2.89c6f613.chunk.js",
+    "static/js/2.89c6f613.chunk.js.map": "./static/js/2.89c6f613.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.f2935ec1.chunk.css.map": "./static/css/main.f2935ec1.chunk.css.map",
+    "static/js/2.89c6f613.chunk.js.LICENSE.txt": "./static/js/2.89c6f613.chunk.js.LICENSE.txt",
+    "static/media/SortLink.scss": "./static/media/cross.a7b1ced7.svg",
+    "static/media/Pagitation.scss": "./static/media/arr-right.7365d53e.svg",
+    "static/media/Footer.scss": "./static/media/arr-up_black.3ffcd791.svg",
+    "static/media/Cart.scss": "./static/media/cart-img.f0432bbd.svg",
+    "static/media/EmptyNotification.scss": "./static/media/empty.9f884df3.svg",
+    "static/media/PageNotFound.scss": "./static/media/error.e12b5e1c.svg",
+    "static/media/Favorites.scss": "./static/media/favorite.04de1739.svg",
+    "static/media/OptionsOnProductPage.scss": "./static/media/heart.18a4d0a4.svg",
+    "static/media/App.scss": "./static/media/mont-regular-webfont.b8a55ba6.woff",
+    "static/media/Header.scss": "./static/media/search.eb670dd9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c97c281.js",
+    "static/js/2.89c6f613.chunk.js",
+    "static/css/main.f2935ec1.chunk.css",
+    "static/js/main.ad5cc843.chunk.js"
+  ]
+}

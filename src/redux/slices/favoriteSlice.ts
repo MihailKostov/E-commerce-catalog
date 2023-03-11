@@ -8,9 +8,7 @@ export interface FavoriteSliceState {
 const favoriteSlice = createSlice({
   name: 'favorite',
 
-  initialState: {
-    itemInFavorite: [],
-  } as FavoriteSliceState,
+  initialState: { itemInFavorite: [] } as FavoriteSliceState,
 
   reducers: {
     addItemToFavorite: (state, action) => {
